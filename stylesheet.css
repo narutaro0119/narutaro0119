@@ -1,0 +1,24 @@
+h1 {
+  color:#ff0000;
+  }
+
+h2 {
+  color:#ff0000;
+  } 
+
+.top-wrapper {
+  background-image: url(images/溜池公園快晴.jpg);
+  background-size: cover;
+  color:#ffffff;
+  font-weight: bold;
+  }
+
+.container {
+    text-align: center
+  }
+
+img {
+    width: 20%;    /* 横幅を割合で指定 */
+    
+  }
+
